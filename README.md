@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##About me...
+## About me...
 - 🔭 I’m currently working on building some hacking skills.
 - 🌱 I’m currently pursuing Bachelors of Engineering in Computer Science @ GTU.
 - 💬 Ask me about Computers and Cyber Security
